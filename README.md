@@ -135,3 +135,61 @@
 ## R5: Wireframes for multiple standard screen sizes, created using industry standard software
 
 ## R6: Screenshots of your Trello board throughout the duration of the project
+
+**The [Trello](https://trello.com/) project management platform was used to manage the application's implementation plan and design. I was successful at planning, prioritising, and organising my activities into digestible portions.**
+
+![Trello Workspace](./docs/trello-01.png)
+
+![Trello Workspace](./docs/trello-02.png)
+
+![Trello Workspace](./docs/trello-03.png)
+
+### **An _Agile_ based sprint board can be created as depicted below :**
+
+- ### **Backlog**
+
+  - **Includes the tasks that must be completed for a project**
+
+- ### **In Development**
+
+  - **Includes tasks that must be completed or are being worked on.**
+
+- ### **Ready For Test**
+
+  - **Includes tasks that are completed and are in the testing phase**
+
+- ### **Product Walkthrough**
+
+  - **Includes tasks for a senior team-member to review before presenting it to the client for feedback**
+
+- ### **Ready For Release**
+
+  - **Includes tasks/features ready for client feedback**
+
+- ### **Done**
+
+  - **Includes all completed tasks**
+
+However, we did not include the _`Product Walkthrough`_ list in the board. In addition, each task was color-coded according to priority, with red representing high priority, orange representing medium priority, and yellow representing low priority. In addition, for each activity, a checklist of checklist items was provided, which aided in breaking down the tasks into smaller components. Finally, each job was assigned a serial number, which made it much easier to make frequent commits to a remote repository.
+
+The color-coded scheme is depicted below.
+
+![Trello Labels](./docs/labels.png)
+
+## **Managing and Tracking Tasks: How We Succeeded**
+
+- Using labels and color coding to categorise tasks
+
+- Utilising a checklist for each item or task
+
+- Setting up due dates to track the progress of each task
+
+- Reviewing and updating the board regularly
+
+- Writing and participating in stand ups with our peers and educators on Discord
+
+A link to the [Trello](https://trello.com/) workspace can be found [here](https://trello.com/b/w4eRNmdQ/t3a2-ab-full-stack-app)
+
+```
+https://trello.com/b/w4eRNmdQ/t3a2-ab-full-stack-app
+```
