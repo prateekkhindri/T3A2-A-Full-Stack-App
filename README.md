@@ -136,6 +136,62 @@
 
 ## R4: User Stories
 
+</br>
+
+**Two personas**
+
+1. Customer/Buyer
+2. Admin user
+
+</br>
+
+| Epic                                |                                                                                     User Story                                                                                      |
+| :---------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| **User Registration/Log in**        |                                            As a customer, I want to register for an account so that I can make purchases on the website.                                            |
+|                                     |                                             As a customer, I want to reset my password so that I can access my account if I forget it.                                              |
+|                                     |                                         As a customer, I want to change my password as I’m logged in so that I can keep my account secure.                                          |
+|                                     |                                       As a customer, I want to log in to my account so I can access my personal settings, wishlist, and cart.                                       |
+|                                     |                                                     As an admin, I want to register for an account so I can manage the website.                                                     |
+|                                     |                                              As an admin, I want to reset my password so that I can access my account if I forget it.                                               |
+|                                     |                                               As an admin, I want to log into my admin dashboard to oversee the website's operations.                                               |
+|                                     |                                                As a customer, I want to view all the products so that I see what’s available for me.                                                |
+| **Product and Category Management** |              As a customer, I want to view detailed information of each product, including images, price, and description, so I can make informed purchase decisions.               |
+|                                     |                                   As a customer, I want to view the categories so that I can choose which category of products I want to access.                                    |
+|                                     |                      As a customer, I want to select a category and view the products within that category so that I can find the product I wish to purchase.                       |
+|                                     |                             As an admin, I want to view the details of each product listed on the website so I can monitor and manage the product list.                             |
+|                                     |                                               As an admin, I want to create a product so that I can list a new product on my website                                                |
+|                                     |                                               As an admin, I want to edit a product so that I can change the details of the product.                                                |
+|                                     |                                          As an admin, I want to delete a product so that I can remove a product I no longer want to list.                                           |
+|                                     |                                             As an admin, I want to create a category so that I can group my products more effectively.                                              |
+|                                     |                                             As an admin, I want to edit a category so that I can change the name and keep it up to date                                             |
+|                                     |                                             As an admin, I want to delete a category so that I can remove the category from my website.                                             |
+| **Shopping Cart & Checkout**        |                                         As a customer, I want to add products to a shopping cart so I can purchase multiple items at once.                                          |
+|                                     |                             As a customer, I want to increase the quantity of a product in my shopping cart so that I can order more of the same item.                              |
+|                                     |                                        As a customer, I want to view the items in my shopping cart so I can review what I plan to purchase.                                         |
+|                                     |                                            As a customer, I want to remove items from my shopping cart if I decide not to purchase them.                                            |
+|                                     |                        As a customer, I want to check out my shopping cart, pay via Stripe, and provide shipping information so I can receive my purchases.                         |
+|                                     |                           As a customer, I want to view the total order amount and the shipping costs so that I can understand how much my order will be.                           |
+|                                     |                                              As a customer, I want to view my order history so I can keep track of my past purchases.                                               |
+|                                     | As a customer, I want to view the details of my past orders (including purchased items, order ID, total cost and status) to have a comprehensive understanding of each transaction. |
+|                                     |                                      As an admin, I want to view an overview of orders from my dashboard to track sales and processing status.                                      |
+|                                     |                                        As an admin, I want to see a list of all orders and their statuses to ensure smooth order processing.                                        |
+|                                     |                                             As an admin, I want to filter by the status of orders, so that I can view orders by status.                                             |
+|                                     |                                                   As an admin, I want to click on an order so that I can view the order details.                                                    |
+| **Wishlist**                        |                                                 As a customer, I want to add products to my wishlist so I can save them for later.                                                  |
+|                                     |                                      As a customer, I want to view all the items in my wishlist so I can decide which ones I want to purchase.                                      |
+|                                     |                                                 As a customer, I want to remove items from my wishlist if I no longer desire them.                                                  |
+|                                     |                                         As a customer, I want to directly add items from my wishlist to my shopping cart for easy checkout.                                         |
+| **Settings & Support**              |                                               As a customer, I want to edit my profile so that I can keep my information up to date.                                                |
+|                                     |                                        As a customer, I want to change my email address so that I can receive notifications to my new email.                                        |
+|                                     |                                                As an admin, I want to edit my profile so that I can keep my information up to date.                                                 |
+|                                     |                                         As an admin, I want to change my email address so that I can receive notifications to my new email.                                         |
+| **Legal**                           |                            As a customer, I want to easily access the terms and conditions so I can understand my legal obligations when using the site.                            |
+|                                     |                              As a customer, I want to easily access the privacy policy to understand how my personal data is being used and protected.                              |
+|                                     |                                              As a customer, I want to accept the terms and conditions so that I can create my account.                                              |
+|                                     |                             As an admin, I want to easily access the terms and conditions so I can understand my legal obligations when using the site.                             |
+|                                     |                               As an admin, I want to easily access the privacy policy to understand how my personal data is being used and protected.                               |
+|                                     |                                               As an admin, I want to accept the terms and conditions so that I can create my account.                                               |
+
 ## R5: Wireframes for multiple standard screen sizes, created using industry standard software
 
 ## R6: Screenshots of your Trello board throughout the duration of the project
