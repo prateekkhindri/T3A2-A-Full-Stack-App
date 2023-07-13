@@ -130,6 +130,10 @@
 
 ## R3: Application Architecture Diagram
 
+</br>
+
+![My Image](./docs/application-architecture.png)
+
 ## R4: User Stories
 
 ## R5: Wireframes for multiple standard screen sizes, created using industry standard software
