@@ -194,6 +194,108 @@
 
 ## R5: Wireframes for multiple standard screen sizes, created using industry standard software
 
+</br>
+
+### **Sitemap**
+
+Link to [Sitemap](https://www.figma.com/file/dO4RcbwiBfiPrNcQfAa2UZ/T3A2-A-Vendistop-Sitemap?type=whiteboard&node-id=0%3A1&t=711Ksg3T0mbusqny-1)
+
+![Alt text](/docs/sitemap.png)
+
+</br>
+
+### **Wireframes**
+
+<br>
+
+[Desktop Wireframes](https://www.figma.com/file/VKbiN9b3hHs8perEPcroXV/T3A2-A-Vendistop-Wireframe?type=design&node-id=0%3A1&mode=design&t=SpUDP8Ez4Hgx8S7Q-1)
+
+Customer - Desktop home
+![wf-home](./docs/wf-home.png)
+
+Customer - Edit profile
+![wf-editprofile](./docs/wf-editprofile.png)
+
+Customer - Shopping cart
+![wf-shoppingcart](/docs/wf-mb-shoppingcart.png)
+
+Customer - Log in
+![wf-login](/docs/wf-login.png)
+
+<br>
+
+[Mobile Wireframes](https://www.figma.com/file/VKbiN9b3hHs8perEPcroXV/T3A2-A-Vendistop-Wireframe?type=design&node-id=204%3A16&mode=design&t=SpUDP8Ez4Hgx8S7Q-1)
+
+Admin - Products
+
+![wf-mb-adminproducts](/docs/wf-mb-adminproducts.png)
+
+Customer - Order Details
+
+![wf-md-orderdetails](/docs/wf-mb-orderdetails.png)
+
+Customer - Products
+
+![wf-mb-products](/docs/wf-mb-products.png)
+
+Customer - Shopping Cart
+
+![wf-mb-shopping cart](/docs/wf-mb-shoppingcart.png)
+
+Customer - Wishlist
+
+![wf-mb-wishlist](/docs/wf-mb-wishlist.png)
+
+### **Designs**
+
+[Desktop Prototypes](https://www.figma.com/proto/z7bTTMQmhKitQ66neCf5pn/T3A2-A-Vendistop-Design?type=design&node-id=1-5146&t=GRaAkI20lId6gzhZ-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A5146&show-proto-sidebar=1&mode=design)
+
+[Mobile Prototypes](https://www.figma.com/proto/z7bTTMQmhKitQ66neCf5pn/T3A2-A-Vendistop-Design?type=design&node-id=904-3287&t=geb0l6io5dXeG2Mo-1&scaling=min-zoom&page-id=904%3A29&starting-point-node-id=904%3A3287&show-proto-sidebar=1&mode=design)
+
+<br>
+
+- [Desktop](https://www.figma.com/file/z7bTTMQmhKitQ66neCf5pn/T3A2-A-Vendistop-Design?type=design&node-id=1%3A6109&mode=design&t=PIhWArk1Xa5RoYE9-1)
+
+Customer - Home
+
+![des-home](docs/des-home.png)
+
+Customer - Product Detail
+
+![des-productdetails](docs/des-productdetail.png)
+
+Customer/Admin - Registration
+
+![des-registration](docs/des-registration.png)
+
+Customer - Shopping Cart
+
+![des-shoppingcart](docs/des-shoppingcart.png)
+
+<br>
+
+- [Mobile](https://www.figma.com/file/z7bTTMQmhKitQ66neCf5pn/T3A2-A-Vendistop-Design?type=design&node-id=904%3A29&mode=design&t=PIhWArk1Xa5RoYE9-1)
+
+Admin - Dashboard
+
+![des-admindashboard](/docs/des-mb-admindashboard.png)
+
+Customer - Homepage
+
+![deshome](docs/des-mb-home.png)
+
+Customer - Login
+
+![des-mb-login](docs/des-mb-login.png)
+
+Customer - Registration
+
+![des-mb-reg](docs/des-mb-registration.png)
+
+Admin - Category
+
+![des-mobadmincategory](docs/des-mob-admincategory.png)
+
 ## R6: Screenshots of your Trello board throughout the duration of the project
 
 **The [Trello](https://trello.com/) project management platform was used to manage the application's implementation plan and design. I was successful at planning, prioritising, and organising my activities into digestible portions.**
