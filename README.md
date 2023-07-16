@@ -274,7 +274,7 @@ Customer - Home
 
 Customer - Product Detail
 
-![des-productdetails](docs/des-productdetail.png)
+![Product-Detail](docs/product-detail.png)
 
 Customer/Admin - Registration
 
