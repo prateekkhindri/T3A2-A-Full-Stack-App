@@ -128,6 +128,18 @@
 
 ## R2: Dataflow Diagram
 
+![Registration](./docs/registration.png)
+
+![Login](./docs/login.png)
+
+![Authentication](./docs/authentication.png)
+
+![Authorization](./docs/authorization.png)
+
+![Redux-01](./docs/redux-01.png)
+
+![Redux-02](./docs//redux-02.png)
+
 ## R3: Application Architecture Diagram
 
 </br>
